@@ -1,0 +1,57 @@
+# Task 1: Data Cleaning and Visualization using Titanic Dataset
+
+## Project Overview
+
+This project focuses on cleaning and visualizing the Titanic dataset. The goal is to preprocess the data, handle missing values, remove duplicates, and create meaningful visualizations to gain insights about passenger survival patterns.
+
+## Dataset
+
+The dataset contains information about Titanic passengers, including:
+
+* Survived
+* Pclass
+* Name
+* Sex
+* Age
+* SibSp
+* Parch
+* Ticket
+* Fare
+* Cabin
+* Embarked
+
+## Data Cleaning Steps
+
+1. Checked for missing values.
+2. Filled missing values in Age and Embarked columns.
+3. Removed duplicate records.
+4. Verified data types and dataset consistency.
+
+## Visualizations Created
+
+* Survival Distribution
+* Gender Distribution
+* Age Distribution
+* Passenger Class Distribution
+* Fare Distribution
+* Survival by Gender
+* Survival by Passenger Class
+* Age Boxplot for Outlier Detection
+
+## Key Findings
+
+* Most passengers belonged to the third class.
+* Female passengers had a higher survival rate than males.
+* Most passengers were between 20 and 40 years old.
+* First-class passengers had a greater chance of survival.
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+
+## Conclusion
+
+The project demonstrates essential data cleaning and visualization techniques. The analysis provides insights into passenger demographics and survival trends from the Titanic dataset.
